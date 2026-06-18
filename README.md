@@ -39,7 +39,7 @@
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br>
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
-  <img src="https://profile-counter.glitch.me/kaustubh99j/count.svg" />
+ 
 </p>
 
 
